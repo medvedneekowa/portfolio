@@ -42,3 +42,7 @@
 - Локализация просадки `Order2Ride` в рамках тарифа.
 - Рекомендации для операционного отдела.
 
+## Dashboard в Power BI
+![image](https://github.com/user-attachments/assets/2df5fed5-49a3-49d1-bfa2-0105c976f75e)
+
+
